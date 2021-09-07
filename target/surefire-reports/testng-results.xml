@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestCases.TestClass" duration-ms="15183" started-at="2021-09-02T01:26:06 PKT" finished-at="2021-09-02T01:26:21 PKT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="15183" started-at="2021-09-02T01:26:06 PKT" finished-at="2021-09-02T01:26:21 PKT">
+      <class name="TestCases.TestClass">
+        <test-method status="PASS" signature="launchBrowserTestNG()[pri:0, instance:TestCases.TestClass@77cd7a0]" name="launchBrowserTestNG" is-config="true" duration-ms="5040" started-at="2021-09-02T01:26:06 PKT" finished-at="2021-09-02T01:26:11 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserTestNG -->
+        <test-method status="PASS" signature="googleTest()[pri:1, instance:TestCases.TestClass@77cd7a0]" name="googleTest" duration-ms="5544" started-at="2021-09-02T01:26:11 PKT" finished-at="2021-09-02T01:26:17 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method status="PASS" signature="facebookTest()[pri:2, instance:TestCases.TestClass@77cd7a0]" name="facebookTest" duration-ms="4511" started-at="2021-09-02T01:26:17 PKT" finished-at="2021-09-02T01:26:21 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookTest -->
+      </class> <!-- TestCases.TestClass -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestCases.TestClass -->
+</testng-results>

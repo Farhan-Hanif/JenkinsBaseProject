@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="TestCases.TestClass" time="10.056" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="JOB_NAME" value="JenkinsProject"/>
+    <property name="PWD" value="/Users/mac/Jenkins"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/JenkinsProject/27/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/Users/mac/.jenkins"/>
+    <property name="PATH" value="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"/>
+    <property name="HUDSON_SERVER_COOKIE" value="a7a0f5ab9b59c3ea"/>
+    <property name="POM_ARTIFACTID" value="BaseProjectForJenkins"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="TERM_PROGRAM" value="Apple_Terminal"/>
+    <property name="sun.boot.class.path" value="/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib/resources.jar:/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib/rt.jar:/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib/sunrsasign.jar:/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib/jsse.jar:/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib/jce.jar:/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib/charsets.jar:/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib/jfr.jar:/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="TERM_SESSION_ID" value="B05E5B5A-4580-41F2-A696-E1C7FCD45954"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="BaseProjectForJenkins"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="java.runtime.version" value="1.8.0_292-b10"/>
+    <property name="user.name" value="mac"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="LaunchInstanceID" value="F4C536B9-6FB5-48D5-95F7-93C7595DC78E"/>
+    <property name="SECURITYSESSIONID" value="186a6"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="JenkinsProject"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/JenkinsProject/27/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#27"/>
+    <property name="TMPDIR" value="/var/folders/rw/_lzvpb7n1039hphzh5m_68lh0000gn/T/"/>
+    <property name="sun.boot.library.path" value="/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib"/>
+    <property name="java.version" value="1.8.0_292"/>
+    <property name="XPC_FLAGS" value="0x0"/>
+    <property name="user.timezone" value="Asia/Karachi"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="TERM" value="xterm-256color"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.endorsed.dirs" value="/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib/endorsed"/>
+    <property name="BUILD_ID" value="27"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="SHELL" value="/bin/zsh"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/Users/mac/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/TestMaven/conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="PK"/>
+    <property name="java.home" value="/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.15.6"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/JenkinsProject/27/display/redirect"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/JenkinsProject/27/display/redirect?page=artifacts"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.292-b10"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/JenkinsProject/display/redirect"/>
+    <property name="SHLVL" value="1"/>
+    <property name="_" value="/usr/bin/java"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="JAVA_HOME" value="/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="LOGNAME" value="mac"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="HOME" value="/Users/mac"/>
+    <property name="POM_GROUPID" value="org.example"/>
+    <property name="user.home" value="/Users/mac"/>
+    <property name="BUILD_TAG" value="jenkins-JenkinsProject-27"/>
+    <property name="JENKINS_SERVER_COOKIE" value="a7a0f5ab9b59c3ea"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="XPC_SERVICE_NAME" value="0"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="maven.home" value="/Users/mac/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/TestMaven"/>
+    <property name="java.class.path" value="/Users/mac/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.13.jar:/Users/mac/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/TestMaven/boot/plexus-classworlds-2.6.0.jar:/Users/mac/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/TestMaven/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /Users/mac/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/TestMaven /Users/mac/.jenkins/war/WEB-INF/lib/remoting-4.10.jar /Users/mac/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar /Users/mac/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar 57713"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="/Users/mac/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/TestMaven"/>
+    <property name="java.io.tmpdir" value="/var/folders/rw/_lzvpb7n1039hphzh5m_68lh0000gn/T/"/>
+    <property name="CI" value="true"/>
+    <property name="HUDSON_HOME" value="/Users/mac/.jenkins"/>
+    <property name="PATH+MAVEN" value="/Users/mac/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/TestMaven/bin"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/JenkinsProject/27/"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
+    <property name="OLDPWD" value="/Users/mac"/>
+    <property name="SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.QiNSzCOAUT/Listeners"/>
+    <property name="LC_CTYPE" value="UTF-8"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Users/mac/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0"/>
+    <property name="user.dir" value="/Users/mac/Downloads/BaseProjectForJenkins"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/JenkinsProject/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="/Users/mac/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/TestMaven"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="27"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="TERM_PROGRAM_VERSION" value="433"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="maven3.interceptor" value="/Users/mac/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="/Users/mac/Downloads/BaseProjectForJenkins@tmp"/>
+    <property name="WORKSPACE" value="/Users/mac/Downloads/BaseProjectForJenkins"/>
+    <property name="maven3.interceptor.common" value="/Users/mac/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.13.jar"/>
+    <property name="JAVA_MAIN_CLASS_18589" value="Main"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="USER" value="mac"/>
+  </properties>
+  <testcase classname="TestCases.TestClass" name="googleTest" time="5.549"/>
+  <testcase classname="TestCases.TestClass" name="facebookTest" time="4.507"/>
+</testsuite>
